@@ -1,0 +1,15 @@
+D:\RestaurantBooking_Versions\Version_2_Styled\bin\Debug\net10.0-windows\RestaurantBooking.exe
+D:\RestaurantBooking_Versions\Version_2_Styled\bin\Debug\net10.0-windows\RestaurantBooking.deps.json
+D:\RestaurantBooking_Versions\Version_2_Styled\bin\Debug\net10.0-windows\RestaurantBooking.runtimeconfig.json
+D:\RestaurantBooking_Versions\Version_2_Styled\bin\Debug\net10.0-windows\RestaurantBooking.dll
+D:\RestaurantBooking_Versions\Version_2_Styled\bin\Debug\net10.0-windows\RestaurantBooking.pdb
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\RestaurantBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\RestaurantBooking.AssemblyInfoInputs.cache
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\RestaurantBooking.AssemblyInfo.cs
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\RestaurantBooking.csproj.CoreCompileInputs.cache
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\RestaurantBooking.dll
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\refint\RestaurantBooking.dll
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\RestaurantBooking.pdb
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\RestaurantBooking.genruntimeconfig.cache
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\ref\RestaurantBooking.dll
+D:\RestaurantBooking_Versions\Version_2_Styled\obj\Debug\net10.0-windows\Restaura.815C00A1.Up2Date
